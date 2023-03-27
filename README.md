@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chamika Uluwatta</h1>
+<h1 align="center">Hi 👋, I'm Chamika Uluwatta</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 400px align = "right" >
 
