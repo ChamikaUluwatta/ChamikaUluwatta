@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamika Uluwatta</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Node.js,React**
-
-- 💬 Ask me about **HTML,CSS,Java,JavaScript**
-
 - 📫 How to reach me **chamika.uluwatta45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
