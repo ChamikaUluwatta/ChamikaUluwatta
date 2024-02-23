@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chamika Uluwatta</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
-- 📫 How to reach me **chamika.uluwatta45@gmail.com**
+- 📫 How to reach me **uchamika.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
