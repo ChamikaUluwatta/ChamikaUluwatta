@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm <b>Chamika Uluwatta</b>, a <b>Full-Stack Developer</b> passionate about backend engineering. I hold a <b>First Class Honours</b> degree from the <b>University of Westminster</b> (affiliated with the Informatics Institute of Technology, Sri Lanka).<br><br>- 📚 I'm currently learning Go and Backend Development<br>- ⚡ In my free time, I game, read books and code.</p>
+<p align="left">I'm <b>Chamika Uluwatta</b>, a <b>Full-Stack Developer</b> passionate about backend engineering. I am graduated with a <b>First Class Honours</b> degree from the <b>University of Westminster</b> (affiliated with the Informatics Institute of Technology, Sri Lanka) in B.eng Software engineering.<br><br>- 📚 I'm currently learning Go and Backend Development<br>- ⚡ In my free time, I game, read books and code.</p>
 
 ###
 
